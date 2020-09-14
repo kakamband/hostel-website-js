@@ -8,3 +8,4 @@ learned in this project :
 4)purchasing of Domain name and hosting sites.
 5)Wrking of nodejs
 6)html css and javascript for web devlopment.
+7)dns sever work
